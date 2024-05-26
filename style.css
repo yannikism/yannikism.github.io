@@ -5,6 +5,12 @@
   font-family: sans-serif;
 }
 
+.container {
+    width: 80%; /* or any other value */
+    padding: 20px; /* or any other value */
+    margin: auto;
+}
+
 .hero {
   width: 100%;
   height: 100vh;
